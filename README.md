@@ -495,7 +495,7 @@ Following feedback on Part 1, the website was styled with an external CSS styles
 
 These changes, along with the corresponding changelog entries, have been committed to the GitHub repository. 
 
- 
+ Github link : https://github.com/kwanda-commits/ST10531962-part-2
 References 
  
 Icons8. (2026). Icons and design resources. Available at: https://icons8.com 
